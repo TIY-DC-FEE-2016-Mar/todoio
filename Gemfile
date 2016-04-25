@@ -8,6 +8,8 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'jbuilder', '~> 2.0'
 
+gem 'rack-cors'
+
 
 group :development, :test do
   gem 'pry-rails'
